@@ -41,7 +41,7 @@ function Whitespace() {
                     </div>
                     <div className='prjtdiv1'>
                         <h2>Work together</h2>
-                        <p>With whitepace, share your notes with your colleagues and collaborate on them.
+                        <p>With whitespace, share your notes with your colleagues and collaborate on them.
                             You can also publish a note to the internet and share the URL with others.
                         </p>
                         <button>Try it now</button>
